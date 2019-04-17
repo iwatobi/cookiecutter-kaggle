@@ -1,4 +1,5 @@
 {
-    "project_name": "Kaggle-CompetitionName",
-    "competition_url": "https://www.kaggle.com/c/competition_name"
+    "project_name": "Kaggle_Competition-Name",
+    "dir_name": "{{cookiecutter.project_name}}",
+    "competition_url": "https://www.kaggle.com/c/{{cookiecutter.project_name.lower().replace('kaggle_','')}}"
 }

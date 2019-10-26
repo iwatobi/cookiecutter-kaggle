@@ -107,6 +107,7 @@ ENV/
 *~
 *.sw[a-p]
 
+src/*.html
 input/*
 output/*
 features/*

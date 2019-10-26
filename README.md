@@ -5,7 +5,7 @@
 ## ディレクトリ構成
 
 ```
-{{cookiecutter.dir_name}}
+{{cookiecutter.competition-id}}
  ├── README.md
  ├── conf
  │   └── logging.conf
